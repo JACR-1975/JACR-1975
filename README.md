@@ -1,4 +1,8 @@
-John Alexander Caro Rios
+JOHN ALEXANDER CARO RIOS
+
+johncarorios@gmail.com
+
++5713175406455
 
 PERFIL PROFESIONAL
 Programador de software junior backEnd, frontEnd con conocimientos en java, bases de
@@ -6,9 +10,19 @@ datos relacionales y no relacionales, SQL, MySQL, Moongose, MVC, desarrollo web,
 CSS, REACT, Java Script, framework Spring boot, metodologías agiles, Scrum, API, Git,
 Git hub. Orientado a resultados, con gran capacidad de adaptación y aprendizaje.
 
+
+EDUCACIÓN
+DESARROLLO WEB FULL STACK.
+Protalento
+2023
+
 TÉCNICO LABORAL EN HABILIDADES EN PROGRAMACIÓN CON ÉNFASIS EN
-APLICACIONES WEB. 
+APLICACIONES WEB.
+Universidad Autónoma de Bucaramanga (UNAB)
+2022
 
-johncarorios@gmail.com
+EXPERIENCIA
+Actualmente trabajo en dos proyectos web de frontEnd con html, css, javaScript, node.js.
+https://jacr-1975.github.io/Pokedex/
 
-+5713175406455
+https://jacr-1975.github.io/SimuladorCajero/
