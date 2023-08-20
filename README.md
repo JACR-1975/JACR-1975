@@ -6,7 +6,7 @@ johncarorios@gmail.com
 
 PERFIL PROFESIONAL
 Programador de software junior backEnd, frontEnd con conocimientos en java, bases de
-datos relacionales y no relacionales, SQL, MySQL, Moongose, MVC, desarrollo web, HTML,
+datos relacionales y no relacionales, SQL, MySQL, PostgreSql, Moongose, MVC, desarrollo web, HTML,
 CSS, REACT, Java Script, framework Spring boot, metodologías agiles, Scrum, API, Git,
 Git hub. Orientado a resultados, con gran capacidad de adaptación y aprendizaje.
 
